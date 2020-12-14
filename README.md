@@ -1,18 +1,19 @@
 ## Hi there 👋, my name is Darren
 
-### I am Software Engineer, with a special passion for innovative technology
+### I am Software Engineer, with a special passion for innovative technology, e.g. blockchain, Ai, cyber security, VR/AR etc.
 
-#### About : 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### About : 
+   This is a new new GitHub Readme Page. 
 
-#### Skills: 
-Solidity / Javascript / JAVA / REACT 
+### Skills: 
+   - **Languages**    : Solidity / Javascript / JAVA / Assembler / C
+   - **Ethereum tools** : Truffle, Geth, Ganache/testprc, Metamask, Remix, Infura, Etherscan 
+   - **Server/OS**      :  Node.js, Unix, MacOs, Webshphere, TPF
+   - **Framework/library** : Web3.js, React.js, Experss.js, React Native, Spring 
+   - **Database**       : Oracle sql, pl/sql, Mongo.
+   - **Web**           : Html5, html, css.
 
-<!--
-**dtan1/dtan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+### States : 
 
 - 🔭 I’m currently working on ...Github profile and code samples
 - 🌱 I’m currently learning ...setting up profiles in Github - portfolio and profiles.
