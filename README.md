@@ -3,7 +3,7 @@
 ### *I am a Software Engineer, who is passionate in the innovative technology, e.g. blockchain, Ai, cyber security, VR/AR etc.*
 
 ### About : 
-&nbsp;&nbsp;&nbsp; This is a new new GitHub Readme Page. 
+&nbsp; &nbsp; &nbsp; This is a new new GitHub Readme Page. 
 
 ### Skills: 
    - **Languages**    : Solidity / Javascript / JAVA / Assembler / C
