@@ -1,4 +1,12 @@
-### Testing out new Readme in Github 👋
+## Hi there 👋, my name is Darren
+
+### I am Software Engineer, with a special passion for innovative technology
+
+#### About : 
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+#### Skills: 
+Solidity / Javascript / JAVA / REACT 
 
 <!--
 **dtan1/dtan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
