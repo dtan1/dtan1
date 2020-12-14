@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Darren
 
-### *I am a Software Engineer, who is passionate in the innovative technology, e.g. blockchain, Ai, cyber security, VR/AR etc.*
+### I am a meticulous Software Engineer, who is passionate in the innovative technologies, with a special enthusiam in *Blockchain* technology.
 
 ### About : 
 &nbsp; &nbsp; &nbsp; This is a new GitHub Readme Page. 
@@ -13,6 +13,10 @@
    - **Database**       : Oracle sql, pl/sql, Mongo.
    - **Web**           : Html5, html, css.  
 
+<!--
+![](https://img.shields.io/badge/<Language>-<Solidity/javascript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+-->
 
 ### States : 
 - 🔭 I’m currently working on ...Github profile and code samples
