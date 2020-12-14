@@ -1,9 +1,9 @@
 ## Hi there 👋, my name is Darren
 
-### I am Software Engineer, with a special passion for innovative technology, e.g. blockchain, Ai, cyber security, VR/AR etc.
+### *I am a Software Engineer, who is passionate in the innovative technology, e.g. blockchain, Ai, cyber security, VR/AR etc.*
 
 ### About : 
-   This is a new new GitHub Readme Page. 
+   ...This is a new new GitHub Readme Page. 
 
 ### Skills: 
    - **Languages**    : Solidity / Javascript / JAVA / Assembler / C
