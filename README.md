@@ -7,7 +7,10 @@
 
 ### Skills: 
    - **Languages**    : Solidity / Javascript / JAVA / Assembler / C
-   - **Ethereum tools** : Truffle, Geth, Ganache/testprc, Metamask, Remix, Infura, Etherscan 
+   - **Blockchain**    : L1, L2 (optimistic and zk rollup), chain interoperability, oracle
+   - **Blockchain dApp**    : smart contract, Defi, NFT, gameFi, metaverse
+   - **Blockchain dev framework**    : Truffle, Hardhat, Moralis, scaffold-eth
+   - **Ethereum toolings** : Geth, Ganache/testprc, Metamask, Remix, Infura, Etherscan 
    - **Server/OS**      :  Node.js, Unix, MacOs, Webshphere, TPF
    - **Framework/library** : Web3.js, React.js, Experss.js, React Native, Spring 
    - **Database**       : Oracle sql, pl/sql, Mongo.
