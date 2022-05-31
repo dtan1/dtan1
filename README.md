@@ -12,9 +12,9 @@
    - **Smart Contract features** : Security Design Pattern, gas optimization, unit and network test
    - **Blockchain dev framework**    : Truffle, Hardhat, Moralis, scaffold-eth
    - **Ethereum tools** : Geth, Ganache/testprc, Metamask, Remix, Infura, Alchemy, Etherscan 
-   - **Solidity tools** : open-zeppelin, slither test tool
+   - **Solidity tools** : open-zeppelin, slither
    - **Server/OS**      :  Node.js, Unix, MacOs, Webshphere, TPF
-   - **Framework/library** : Web3.js, React.js, Experss.js, React Native, Spring 
+   - **Framework/library** : Ether.js, Web3.js, React.js, Experss.js, React Native, Spring 
    - **Database**       : Oracle sql, pl/sql, Mongo.
    - **Web**           : Html5, html, css.  
 
