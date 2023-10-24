@@ -10,14 +10,21 @@
    - **Languages**    : Solidity, Cairo (DSL), Javascript, JAVA, Assembler, C
    - **Blockchain skills**    : smart contract, Defi, NFT, (next : gameFi, metaverse)
    - **Smart Contract features** : Security Design Pattern, gas optimization, unit and network test
-   - **Blockchain dev framework**    : Truffle, Hardhat, Foundry, Moralis, scaffold-eth
-   - **Ethereum tools** : Starkli, Geth, Ganache/testprc, Metamask, Remix, Infura, Alchemy, Block Explorers 
-   - **Solidity tools** : open-zeppelin, slither
+   - **Blockchain dev framework**    : Truffle, Hardhat, Foundry, Moralis, scaffold-eth, Remix
+   - **Testing tools** : sn-forge & sn-cast
+   - **Local testnet & CLI**: Katana & starknet-dev, starkli & scarb, Ganache/testrpc, Geth
+   - **zk/validity rollup** : Starknet/Cairo, zkSync, zkEVM
+   - **Node / API provider** : Infura, Alchemy
+   - **Block Explorers** : Etherscan, Starkscan, Voyager
+   - **Wallets** : Metamask, ArgentX, Braavos 
+   - **Security tools** : open-zeppelin, slither
    - **Decentralized Storgage Protocol** : IPFS, pinata service
    - **Decentralized Services** : Chainlink API (VRF, CCIP etc)
    - **Blockchain knowledge**    : L1, L2 (optimistic and zk rollup), chain interoperability
-   - **Server/OS**      :  Node.js, Unix, MacOs, Webshphere, TPF
-   - **Framework/library** : Starknet.js, Ether.js, Web3.js, React.js, Experss.js, React Native, Spring 
+   - **zkp cryptography techniques** : zk-snart, zk-stark
+   - **VM/Server/OS**      :  CairoVM, EVM, JVM, Node.js, Unix, MacOs, Webshphere, TPF
+   - **Libray interacting with blockchain** : Starknet.js, Ether.js, Web3.js
+   - **Framework/library** : React.js, Express.js, React Native, Spring 
    - **Database**       : Oracle sql, pl/sql, Mongo.
    - **Web**           : Html5, html, css.  
 
