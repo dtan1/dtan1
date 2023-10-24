@@ -7,9 +7,10 @@
 
 #  
 ### Skills: 
-   - **Languages**    : Solidity, Cairo (DSL), Javascript, JAVA, Assembler, C
+   - **Languages**    : Solidity, Cairo (DSL), Javascript, Rust, JAVA, Assembler, C++, C
    - **Blockchain skills**    : smart contract, Defi, NFT, (next : gameFi, metaverse)
    - **Smart Contract features** : Security Design Pattern, gas optimization, unit and network test
+   - **Computational Methods** : Composable(solidity), Provable(Cairo)
    - **Blockchain dev framework**    : Truffle, Hardhat, Foundry, Moralis, scaffold-eth, Remix
    - **Testing tools** : sn-forge & sn-cast
    - **Local testnet & CLI**: Katana & starknet-dev, starkli & scarb, Ganache/testrpc, Geth
@@ -21,7 +22,8 @@
    - **Decentralized Storgage Protocol** : IPFS, pinata service
    - **Decentralized Services** : Chainlink API (VRF, CCIP etc)
    - **Blockchain knowledge**    : L1, L2 (optimistic and zk rollup), chain interoperability
-   - **zkp cryptography techniques** : zk-snart, zk-stark
+   - **zkp cryptography techniques** : zk-snark, zk-stark
+   - **knowledge in zk proofs** : polynomials, arithmetic circuits, Intermediate Representations (IR), R1CS constraints, 
    - **VM/Server/OS**      :  CairoVM, EVM, JVM, Node.js, Unix, MacOs, Webshphere, TPF
    - **Libray interacting with blockchain** : Starknet.js, Ether.js, Web3.js
    - **Framework/library** : React.js, Express.js, React Native, Spring 
