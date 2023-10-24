@@ -15,15 +15,15 @@
    - **Testing tools** : sn-forge & sn-cast
    - **Local testnet & CLI**: Katana & starknet-dev, starkli & scarb, Ganache/testrpc, Geth
    - **zk/validity rollup** : Starknet/Cairo, zkSync, zkEVM
+   - **zkp cryptography techniques** : zk-snark, zk-stark
+   - **knowledge in zkp** : polynomials, arithmetic circuits, Intermediate Representations (IR), R1CS constraints
    - **Node / API provider** : Infura, Alchemy
    - **Block Explorers** : Etherscan, Starkscan, Voyager
    - **Wallets** : Metamask, ArgentX, Braavos 
    - **Security tools** : open-zeppelin, slither
    - **Decentralized Storgage Protocol** : IPFS, pinata service
    - **Decentralized Services** : Chainlink API (VRF, CCIP etc)
-   - **Blockchain knowledge**    : L1, L2 (optimistic and zk rollup), chain interoperability
-   - **zkp cryptography techniques** : zk-snark, zk-stark
-   - **knowledge in zk proofs** : polynomials, arithmetic circuits, Intermediate Representations (IR), R1CS constraints, 
+   - **Blockchain knowledge**    : L1, L2 (optimistic and zk/validity rollup), chain interoperability
    - **VM/Server/OS**      :  CairoVM, EVM, JVM, Node.js, Unix, MacOs, Webshphere, TPF
    - **Libray interacting with blockchain** : Starknet.js, Ether.js, Web3.js
    - **Framework/library** : React.js, Express.js, React Native, Spring 
